@@ -32,3 +32,5 @@ List 10 benefits  of packet tracer:
 
 10. Certification Prep: Helps prepare for networking certifications by providing practical experience.
 
+    5marks
+
